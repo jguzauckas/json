@@ -6,4 +6,7 @@ The markdown file has formatted notes describing concepts and talking about samp
 
 The recommended order for information is:
 
-1.  
+1. json-basics
+2. using-json
+3. write-classwork
+4. read-classwork
